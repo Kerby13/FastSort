@@ -1,0 +1,5 @@
+\\csfs\home$\lukin_n_a\profile\my documents\visual studio 2010\Projects\FastSort\FastSort\bin\Debug\FastSort.exe
+\\csfs\home$\lukin_n_a\profile\my documents\visual studio 2010\Projects\FastSort\FastSort\bin\Debug\FastSort.pdb
+\\csfs\home$\lukin_n_a\profile\my documents\visual studio 2010\Projects\FastSort\FastSort\obj\x86\Debug\ResolveAssemblyReference.cache
+\\csfs\home$\lukin_n_a\profile\my documents\visual studio 2010\Projects\FastSort\FastSort\obj\x86\Debug\FastSort.exe
+\\csfs\home$\lukin_n_a\profile\my documents\visual studio 2010\Projects\FastSort\FastSort\obj\x86\Debug\FastSort.pdb
